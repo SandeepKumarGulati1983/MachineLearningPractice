@@ -1,6 +1,6 @@
-# MachineLearningPractice-LinearRegression
+# MachineLearningPractice
 
-Linear Regression model 
+Linear Regression model. 
 
   -- via using skLearn library 
   
