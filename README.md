@@ -47,6 +47,9 @@
   					dependent Variables - Salary
 
   6. Random Forest Model
+  		Project : salaries based on positions are given . -->  predict the previous salary of the candidate.
+  		CSV Data (One Feature) : independent variables - Level
+  					dependent Variables - Salary
 
 
   Reference learning:
