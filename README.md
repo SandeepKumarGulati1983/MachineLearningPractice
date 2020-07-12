@@ -9,26 +9,37 @@
   1. Linear Regression model  -> Y = a + bX
 
   -- via using skLearn library
+  		
   		project : Predicting the salary based on experience of an employee
+  		
   		CSV Data (One feature): Independent Variable : experience
+  					
   					Dependent variable : salary
 
 
   -- via Mathematically driving Y hat hypothesis
 
   2. Multiple Linear Regression Model --> Y = a + bX + cX ...... nX
+  		
   		Project : Predicting the profit based on multiple variables 
+  		
   		CSV Data (Multiple feature): independent variables - R&D spend, Administration, Marketing Spend, State
+  					
   					dependent Variables - Profit
 
   3. Polynomial regression model --> Y = a + bx + cx^2 + .... nX^n 
+  		
   		Project : salaries based on positions are given . -->  predict the previous salary of the candidate.
+  		
   		CSV Data (Multiple feature): independent variables - R&D spend, Administration, Marketing Spend, State (String)
+  					
   					dependent Variables - Profit
 
 
   4. SVR (Support Vector Regression) Model
+  		
   		Project : salaries based on positions are given . -->  predict the previous salary of the candidate.
+  		
   		CSV Data (one feature): independent variables - Level 
   					dependent Variables - Salary
 
@@ -42,13 +53,19 @@
   		-- Kernels (ex. gaussian RBF kernel, sigmoid kernel etc. )
 
   5. Decision Tree Model
+  		
   		Project : salaries based on positions are given . -->  predict the previous salary of the candidate.
+  		
   		CSV Data (One Feature) : independent variables - Level
+  					
   					dependent Variables - Salary
 
   6. Random Forest Model
+  		
   		Project : salaries based on positions are given . -->  predict the previous salary of the candidate.
+  		
   		CSV Data (One Feature) : independent variables - Level
+  					
   					dependent Variables - Salary
 
   		-- Ensamble 
