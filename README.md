@@ -43,13 +43,20 @@
   		CSV Data (one feature): independent variables - Level 
   					dependent Variables - Salary
 
-  		-- invented by Valdmir Vapnik - book: The nature of statistical learning theory 
+  		-- invented by Valdmir Vapnik - book: The nature of statistical learning theory.
+
   		-- Insenstive tube - inbetween that pipe , we don't care about error.
-  			-- slack variables 
-  			-- Eksi (E) the width of that tube 
-  				-- Ei  - point above that tube 
+
+  			-- slack variables.
+
+  			-- Eksi (E) the width of that tube.
+
+  				-- Ei  - point above that tube.
+
   				-- Ei* - point below that tube
+
   		-- published paper - https://core.ac.uk/reader/81523322
+  		
   		-- Kernels (ex. gaussian RBF kernel, sigmoid kernel etc. )
 
   5. Decision Tree Model
