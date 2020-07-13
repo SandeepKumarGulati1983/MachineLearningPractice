@@ -3,7 +3,6 @@
 ## Regression Model's algos and projects
 
 
-
 *** Imp points ** in Regression models.
 
 	-- Y = dependent variable  like Salary or Profit.
@@ -98,6 +97,26 @@
   					dependent Variables - Salary
 
   		-- Ensamble 
+
+## Classification.
+
+-- Unlike regression where you predict a continuous number, you use classification to predict a category
+
+		1. Logistic Regression.
+
+		2. K-NN (K Nearest neighbors)
+
+		3. SVM (Support Vector Machine )
+
+		4. Kernal SVM 
+
+		5. Naive Bayes 
+
+		6. Decision Tree classifications 
+
+		7. Random Forest Classifications
+
+-- Performance Check 
 
 
   # Reference learning:
