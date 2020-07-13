@@ -102,9 +102,16 @@
 
 -- Unlike regression where you predict a continuous number, you use classification to predict a category
 
+-- CSV data : Social_Network_ads : Independent variable - age and income 
+			 					   Dependent variable - Purchased or not 
+
 		1. Logistic Regression.
 
+			-- Confusion matrix 
+
 		2. K-NN (K Nearest neighbors)
+
+			-- Euclidean distance 
 
 		3. SVM (Support Vector Machine )
 
