@@ -1,6 +1,6 @@
 # MachineLearningPractice
 
-
+## Regression Model's algos and projects
 *** Imp points ** in Regression models 
 	-- Y = dependent variable  like Salary or Profit 
 	-- X  = independent variable like Experience , company revenue etc 
