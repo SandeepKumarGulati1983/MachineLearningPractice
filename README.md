@@ -9,9 +9,19 @@
 	-- X  = independent variable like Experience , company revenue etc 
 	-- in regression we are predicting the dependent variable Y
 
-### With Multi-feature data 
+### Models template With Multi-features data 
 
-### With Single feature data 
+-- taken care of Missing data and Categorical data 
+-- last column should be the dependent variable and before that are features (any)
+-- here evaluating the "model performance also"
+	
+	from sklearn.metrics import r2_score
+	r2_score(y_test, y_pred)
+
+### WModels template with Single-feature data 
+
+-- taken care of Missing data and Categorical data 
+-- consider first column is a feature and second is a dependent variable.
 
   1. Linear Regression model  -> Y = a + bX
 
