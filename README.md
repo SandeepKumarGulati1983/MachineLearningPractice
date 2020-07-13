@@ -1,10 +1,17 @@
 # MachineLearningPractice
 
 ## Regression Model's algos and projects
+
+
+
 *** Imp points ** in Regression models 
 	-- Y = dependent variable  like Salary or Profit 
 	-- X  = independent variable like Experience , company revenue etc 
 	-- in regression we are predicting the dependent variable Y
+
+### With Multi-feature data 
+
+### With Single feature data 
 
   1. Linear Regression model  -> Y = a + bX
 
