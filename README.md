@@ -4,10 +4,13 @@
 
 
 
-*** Imp points ** in Regression models 
-	-- Y = dependent variable  like Salary or Profit 
-	-- X  = independent variable like Experience , company revenue etc 
-	-- in regression we are predicting the dependent variable Y
+*** Imp points ** in Regression models.
+
+	-- Y = dependent variable  like Salary or Profit.
+
+	-- X  = independent variable like Experience , company revenue etc..
+
+	-- in regression we are predicting the dependent variable Y.
 
 ### Models template With Multi-features data 
 
