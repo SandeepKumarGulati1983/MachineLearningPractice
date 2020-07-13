@@ -115,7 +115,17 @@
 
 		3. SVM (Support Vector Machine )
 
+			-- Maximum margin hyperplane.
+
+			-- data is linearly seprable 
+
 		4. Kernal SVM 
+
+			-- data is not linearly seprable.
+
+			-- Mapping to a higher dimension. via hyperplane.
+
+					-- higher dimension calculations are computer intensive , so we can use kernal tricks like gaussian RBF kernel.
 
 		5. Naive Bayes 
 
