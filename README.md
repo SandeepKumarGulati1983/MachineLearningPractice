@@ -20,7 +20,7 @@
 	from sklearn.metrics import r2_score
 	r2_score(y_test, y_pred)
 
-### WModels template with Single-feature data 
+### Models template with Single-feature data 
 
 -- taken care of Missing data and Categorical data 
 -- consider first column is a feature and second is a dependent variable.
@@ -97,7 +97,7 @@
   		-- Ensamble 
 
 
-  Reference learning:
+  # Reference learning:
 
   1. Udemy course - Machine Learning A-Z tm -python  - Instructor : Kirill Eremenko & Hadelin
   2. Coding blocks  - Machine learning fundamental - Instructor : Prateek Narang (IIT Delhi)
