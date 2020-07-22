@@ -1,6 +1,6 @@
 # MachineLearningPractice
 
-## Regression Model's algos and projects
+## 1. Regression Model's algos and projects
 
 
 *** Imp points ** in Regression models.
@@ -98,7 +98,7 @@
 
   		-- Ensamble 
 
-## Classification.
+## 2. Classification.
 
 -- Unlike regression where you predict a continuous number, you use classification to predict a category
 
@@ -133,7 +133,29 @@
 
 		7. Random Forest Classifications
 
--- Performance Check 
+### Performance Check 
+
+-- false positive and false negetive 
+
+-- Confusion matrix 
+
+--
+
+## 3. Clustering (Unsupervised learning )
+
+    1. K Mean clustering 
+
+    2. Hierarchical clustering 
+
+## 4. Association rule learning .
+
+## 5. Reinforcement Learning .
+
+## 6. NLP 
+
+## 7. Deep learning 
+
+## 8 . Dimensionality reduction.
 
 
   # Reference learning:
