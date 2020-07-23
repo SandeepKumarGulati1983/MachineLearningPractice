@@ -149,7 +149,17 @@
 
 ## 4. Association rule learning .
 
-## 5. Reinforcement Learning .
+      -- Eclat 
+
+      -- Apriori 
+
+## 5. Reinforcement Learning models .
+
+      -- Upper confidence bound 
+
+      -- Thompson sampling 
+
+      note ** good book to read (https://www.amazon.com/Crash-Course-hands-introduction-reinforcement/dp/1838645357/ref=sr_1_1?crid=235YAFPX03J0Z&dchild=1&keywords=ai+crash+course&qid=1594476675&sprefix=ai+cr%2Caps%2C213&sr=8-1)
 
 ## 6. NLP 
 
