@@ -159,7 +159,7 @@
 
       -- Thompson sampling 
 
-      note ** good book to read (https://www.amazon.com/Crash-Course-hands-introduction-reinforcement/dp/1838645357/ref=sr_1_1?crid=235YAFPX03J0Z&dchild=1&keywords=ai+crash+course&qid=1594476675&sprefix=ai+cr%2Caps%2C213&sr=8-1)
+      note ** good book to read (https://www.amazon.in/Crash-Course-hands-introduction-reinforcement-ebook/dp/B07Z9DC228/ref=sr_1_1?crid=SS1WPKHH8BPT&dchild=1&keywords=ai+crash+course&qid=1590262359&sprefix=ai+cra%2Caps%2C252&sr=8-1)
 
 ## 6. NLP 
 
