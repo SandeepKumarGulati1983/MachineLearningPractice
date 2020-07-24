@@ -163,6 +163,18 @@
 
 ## 6. NLP 
 
+-- most of NLP algorithms are classification models, and they include Logistic Regression, Naive Bayes, CART which is a model based on decision trees, Maximum Entropy again related to Decision Trees, Hidden Markov Models which are models based on Markov processes.
+
+ A very well-known model in NLP is the Bag of Words model. It is a model used to preprocess the texts to classify before fitting the classification algorithms on the observations containing the texts.
+
+here we will learn.
+ 
+    -- Clean texts to prepare them for the Machine Learning models,
+    
+    -- Create a Bag of Words model,
+
+    -- Apply Machine Learning models onto this Bag of Worlds model.
+
 ## 7. Deep learning 
 
 ## 8 . Dimensionality reduction.
