@@ -168,14 +168,26 @@
  A very well-known model in NLP is the Bag of Words model. It is a model used to preprocess the texts to classify before fitting the classification algorithms on the observations containing the texts.
 
 here we will learn.
- 
+
     -- Clean texts to prepare them for the Machine Learning models,
     
     -- Create a Bag of Words model,
 
     -- Apply Machine Learning models onto this Bag of Worlds model.
 
-## 7. Deep learning 
+## 7. Deep learning  (Geoffrey Hinton)
+
+-- Artificial Neural Networks for Regression and Classification
+
+-- Convolutional Neural Networks for Computer Vision
+
+-- Recurrent Neural Networks for Time Series Analysis
+
+-- Self Organizing Maps for Feature Extraction
+
+-- Deep Boltzmann Machines for Recommendation Systems
+
+-- Auto Encoders for Recommendation Systems
 
 ## 8 . Dimensionality reduction.
 
